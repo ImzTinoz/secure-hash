@@ -1,0 +1,68 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SecureHash
+</name>
+</assembly>
+<members>
+<member name="P:SecureHash.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:SecureHash.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:SecureHash.My.Resources.Resources.decrypt">
+	<summary>
+  Looks up a localized string similar to 
+   _____                           __    __                      __       
+  / ____|                         /  |  /  |                    /  |      
+ | (___   ___  ___ _   _ _ __ ___ ## |  ## |  ______    _______ ## |____  
+  \___ \ / _ \/ __| | | | '__/ _ \## |__## | /      \  /       |##      \ 
+  ____) |  __/ (__| |_| | | |  __/##    ## | ######  |/#######/ #######  |
+ |_____/ \___|\___|\__,_|_|  \___|######## | /    ## |##      \ ## |  ## |
+                                  ## |  ## |/####### | [rest of string was truncated]";.
+</summary>
+</member><member name="P:SecureHash.My.Resources.Resources.encrypt">
+	<summary>
+  Looks up a localized string similar to 
+   _____                           __    __                      __       
+  / ____|                         /  |  /  |                    /  |      
+ | (___   ___  ___ _   _ _ __ ___ ## |  ## |  ______    _______ ## |____  
+  \___ \ / _ \/ __| | | | '__/ _ \## |__## | /      \  /       |##      \ 
+  ____) |  __/ (__| |_| | | |  __/##    ## | ######  |/#######/ #######  |
+ |_____/ \___|\___|\__,_|_|  \___|######## | /    ## |##      \ ## |  ## |
+                                  ## |  ## |/####### | [rest of string was truncated]";.
+</summary>
+</member><member name="P:SecureHash.My.Resources.Resources.encrypt_2">
+	<summary>
+  Looks up a localized string similar to 
+   _____                           __    __                      __       
+  / ____|                         /  |  /  |                    /  |      
+ | (___   ___  ___ _   _ _ __ ___ ## |  ## |  ______    _______ ## |____  
+  \___ \ / _ \/ __| | | | '__/ _ \## |__## | /      \  /       |##      \ 
+  ____) |  __/ (__| |_| | | |  __/##    ## | ######  |/#######/ #######  |
+ |_____/ \___|\___|\__,_|_|  \___|######## | /    ## |##      \ ## |  ## |
+                                  ## |  ## |/####### | [rest of string was truncated]";.
+</summary>
+</member><member name="P:SecureHash.My.Resources.Resources.splash">
+	<summary>
+  Looks up a localized string similar to 
+   _____                           __    __                      __       
+  / ____|                         /  |  /  |                    /  |      
+ | (___   ___  ___ _   _ _ __ ___ ## |  ## |  ______    _______ ## |____  
+  \___ \ / _ \/ __| | | | '__/ _ \## |__## | /      \  /       |##      \ 
+  ____) |  __/ (__| |_| | | |  __/##    ## | ######  |/#######/ #######  |
+ |_____/ \___|\___|\__,_|_|  \___|######## | /    ## |##      \ ## |  ## |
+                                  ## |  ## |/####### | [rest of string was truncated]";.
+</summary>
+</member><member name="T:SecureHash.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
